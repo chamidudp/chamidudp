@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chamidudp
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently learning Software development And Networking...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cdp2150@gmail.com
 
