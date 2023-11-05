@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamidu Dilshan</h1>
+<h1 align="center">Hi, I'm Chamidu Dilshan</h1>
 <h3 align="center">Undergraduate in University Of Ruhuna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamidudp&label=Profile%20views&color=0e75b6&style=flat" alt="chamidudp" /> </p>
