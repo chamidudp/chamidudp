@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,C,Nodejs**
 
-- 📫 How to reach me **cdp2150@gmail.com**
+- 📫 How to reach me **https://chamidudp.github.io/Portfolio1/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
